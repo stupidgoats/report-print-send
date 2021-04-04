@@ -41,6 +41,7 @@ msgstr "Aktionen"
 
 #. module: base_report_to_printer
 #: model:ir.model.fields,field_description:base_report_to_printer.field_printing_job__active
+#: model:ir.model.fields,field_description:base_report_to_printer.field_printing_printer__active
 #: model:ir.model.fields,field_description:base_report_to_printer.field_printing_server__active
 msgid "Active"
 msgstr "Aktiv"
@@ -606,7 +607,6 @@ msgstr "Bericht"
 #. module: base_report_to_printer
 #: model:ir.model,name:base_report_to_printer.model_ir_actions_report
 #, fuzzy
-#| msgid "Report Printing Actions"
 msgid "Report Action"
 msgstr "Berichtsdruckaktionen"
 
